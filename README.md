@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @shrutimahakarkar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shrutimahakarkar/shrutimahakarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# oibsip_taskno.1
+## Iris flower classification
+Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements.
